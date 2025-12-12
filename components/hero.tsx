@@ -1,4 +1,4 @@
-import { Button } from '@/components/ui/button'
+import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
@@ -11,14 +11,24 @@ export function Hero() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6">
           <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight text-balance">
-            Pure Organic Growth, Naturally
+            Nawab Exporter
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed text-pretty">
-            Premium quality cow dung, organic compost, and vermicompost for sustainable farming. Lab-tested, eco-friendly, and delivered fast across Bangladesh.
+            A reliable company in exporting all types of legal products in
+            Bangladesh. Premium quality vermicompost and organic fertilizers for
+            sustainable farming. 100% organic, environmentally friendly, and
+            delivered across Bangladesh.
           </p>
           <div className="flex gap-4 pt-4">
-            <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">Buy Now</Button>
-            <Button variant="outline" className="border-primary text-primary hover:bg-primary/10">Contact Sales</Button>
+            <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
+              Buy Now
+            </Button>
+            <Button
+              variant="outline"
+              className="border-primary text-primary hover:bg-primary/10"
+            >
+              Contact Sales
+            </Button>
           </div>
         </div>
 
@@ -31,5 +41,5 @@ export function Hero() {
         </div>
       </div>
     </section>
-  )
+  );
 }

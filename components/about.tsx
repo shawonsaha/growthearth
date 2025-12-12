@@ -11,9 +11,15 @@ export function About() {
             />
           </div>
           <div className="space-y-6">
-            <h2 className="text-4xl font-bold text-foreground">Why We're Different</h2>
+            <h2 className="text-4xl font-bold text-foreground">
+              Why We're Different
+            </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Since 2015, GrowthEarth has been committed to providing Bangladesh's farmers and gardeners with the highest quality organic fertilizers. We understand the soil, we respect the earth, and we deliver results.
+              Nawab Exporter is a reliable company dedicated to exporting all
+              types of legal products in Bangladesh. We specialize in premium
+              organic fertilizers, providing farmers and gardeners with 100%
+              natural, environmentally friendly solutions that deliver
+              exceptional results.
             </p>
             <div className="space-y-4">
               <div className="flex gap-4">
@@ -21,8 +27,12 @@ export function About() {
                   <span className="text-primary-foreground text-sm">✓</span>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-foreground">100% Pure & Natural</h3>
-                  <p className="text-muted-foreground">No chemicals, no fillers. Just pure organic matter.</p>
+                  <h3 className="font-semibold text-foreground">
+                    100% Pure & Natural
+                  </h3>
+                  <p className="text-muted-foreground">
+                    No chemicals, no fillers. Just pure organic matter.
+                  </p>
                 </div>
               </div>
               <div className="flex gap-4">
@@ -30,8 +40,12 @@ export function About() {
                   <span className="text-primary-foreground text-sm">✓</span>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-foreground">Lab-Tested Quality</h3>
-                  <p className="text-muted-foreground">Every batch verified for purity and nutrient content.</p>
+                  <h3 className="font-semibold text-foreground">
+                    Lab-Tested Quality
+                  </h3>
+                  <p className="text-muted-foreground">
+                    Every batch verified for purity and nutrient content.
+                  </p>
                 </div>
               </div>
               <div className="flex gap-4">
@@ -39,8 +53,12 @@ export function About() {
                   <span className="text-primary-foreground text-sm">✓</span>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-foreground">Fast, Reliable Delivery</h3>
-                  <p className="text-muted-foreground">Nationwide delivery within 2-3 days guaranteed.</p>
+                  <h3 className="font-semibold text-foreground">
+                    Fast, Reliable Delivery
+                  </h3>
+                  <p className="text-muted-foreground">
+                    Nationwide delivery within 2-3 days guaranteed.
+                  </p>
                 </div>
               </div>
             </div>
@@ -48,5 +66,5 @@ export function About() {
         </div>
       </div>
     </section>
-  )
+  );
 }
