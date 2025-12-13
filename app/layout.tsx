@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "Premium quality organic fertilizer, cow dung, and vermicompost for farmers, gardeners, and nurseries. Fast delivery across Bangladesh. Lab-tested products for sustainable farming.",
   keywords:
     "organic fertilizer, cow dung, vermicompost, composting, Bangladesh agriculture",
-  generator: "v0.app",
+  generator: "Shawon Saha",
   icons: {
     icon: [
       {
