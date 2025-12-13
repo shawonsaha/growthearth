@@ -17,7 +17,7 @@ const products = [
       "Collected fresh from certified dairy farms, processed within 24 hours",
     packaging: "Available in 20kg, 50kg, and 100kg bags",
     priceRange: "৳2,000 - ৳8,000 (20kg - 100kg)",
-    image: "/fresh-cow-manure-composting-material.jpg",
+    image: "/vermicompost-hands.jpg",
   },
   {
     id: 2,
