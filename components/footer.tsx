@@ -9,11 +9,11 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">
-                  NE
-                </span>
-              </div>
+              <img
+                src="/logo.png"
+                alt="Nawab Exporter Logo"
+                className="h-10 w-auto"
+              />
               <span className="font-bold text-lg">Nawab Exporter</span>
             </div>
             <p className="text-background/70 text-sm">
